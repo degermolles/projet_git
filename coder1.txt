@@ -1,0 +1,1 @@
+Dans le fichier git_p2_activité.txt indiqué l'URL du repository GitHub, puis compressé le fichier.txt dan sun fichier .zip puis renvoyé  ce fichier sur Openclassrooms.
